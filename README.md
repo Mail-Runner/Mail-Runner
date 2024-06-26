@@ -7,7 +7,7 @@ I'm an aspiring **Geospatial Data Analyst** and **GIS Technician** with a divers
 After three rewarding years teaching history and geography as a secondary social studies teacher in rural Colorado, I felt a call to return to the dynamic world of geospatial data analysis that first captivated me during my time as an archaeology student. In this new role, I'm dedicated to helping organizations navigate complex challenges and drive positive change on local, national, and global scales using dynamic geographic information systems and spatial data analysis.
 
 - 🎓 **Education**: Bachelor's Degree in Anthropology
-- 🏫 **Previous Experience**: Secondary Social Studies Educator
+- 🏫 **Previous Experience**: Archaeologist & Social Studies Educator
 - 🌍 **Current Focus**: Geospatial data analysis and GIS
 
 ---
@@ -16,7 +16,7 @@ After three rewarding years teaching history and geography as a secondary social
 
 ### Technical Skills
 
-- **Geospatial Analysis**: ArcGIS, GDAL, GeoPandas
+- **Geospatial Analysis**: ArcGIS, GeoDa, GeoPandas
 - **Programming**: Python
 - **Data Visualization**: Tableau, Matplotlib, Seaborn, Kepler
 - **Database Management**: PostgreSQL/PostGIS, SQL
