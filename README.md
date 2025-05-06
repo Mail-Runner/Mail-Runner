@@ -2,12 +2,12 @@
 
 ## About Me
 
-I'm an aspiring **Geospatial Data Analyst** and **GIS Technician** with a diverse background in secondary social studies education, archaeology, and anthropology.
+I'm an aspiring **Geospatial Data Analyst** and **GIS Technician** with a diverse background in secondary social studies education, archaeology, and geospatial research.
 
-After three rewarding years teaching history and geography as a secondary social studies teacher in rural Colorado, I've returned to the dynamic world of geospatial analysis that first captivated me during my time as an archaeology student. In this new role, I'm dedicated to helping organizations navigate complex challenges and drive positive change on local, national, and global scales using dynamic geographic information systems and spatial data analysis.
+After three rewarding years teaching history and geography as a secondary social studies teacher in rural Colorado, I've returned to the GIS sphere that first captivated me during my tenure as an archaeology student. As I seek a new role in GIS, I'm dedicated to helping organizations navigate complex challenges and drive positive change on local, national, and global scales using dynamic geographic information systems and spatial data analysis.
 
 - 🎓 **Education**: Bachelor's Degree in Anthropology
-- 🏫 **Previous Experience**: Archaeologist & Social Studies Educator
+- 🏫 **Previous Experience**: Archaeologist & Social Studies Teacher
 - 🌍 **Current Focus**: Geospatial data analysis and GIS
 
 ---
@@ -16,25 +16,25 @@ After three rewarding years teaching history and geography as a secondary social
 
 ### Technical Skills
 
-- **Geospatial Analysis**: ArcGIS, QGIS, GeoDa, GeoPandas
-- **Programming**: Python
+- **Geospatial Analysis**: ArcGIS, QGIS
+- **Programming**: Python, Pandas, GeoPandas, SQLAlchemy
 - **Data Visualization**: Tableau, Matplotlib, Seaborn, Kepler
-- **Database Management**: PostgreSQL/PostGIS, SQL
+- **Database Management**: PostgreSQL, PostGIS, SQL
 - **Web Mapping**: Leaflet, Folium
+- **Scientific Writing**
+- **Research**
 
 ### Soft Skills
 
-- **Teaching and Mentoring**: Experience as a social studies teacher
-- **Research and Analysis**: Skilled in statistical and spatial analysis
-- **Communication**: Excellent verbal and written skills
-- **Scientific Writing**: Proficiency in conveying complex concepts clearly and effectively
+- **Communication**
+- **Organization**
+- **Integrity**
 
 ---
 
 ## Education
 
 - **Bachelor of Arts**, Anthropology – _University of Colorado Boulder_
-- **Professional License**, Secondary Social Studies Education – _Colorado Department of Education_
 
 ---
 
@@ -48,7 +48,7 @@ After three rewarding years teaching history and geography as a secondary social
 
 ## Get In Touch
 
-I'm always open to discussing new opportunities, collaborations, or any interesting projects. Feel free to reach out to me via [email](mailto:liammazur01@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/liammazur).
+I'm always open to discussing new opportunities, collaborations, or any interesting projects. Feel free to reach out via [email](mailto:liammazur01@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/liammazur).
 
 ---
 
